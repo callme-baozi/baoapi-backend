@@ -1,0 +1,9 @@
+# 公共配置文件
+server:
+  port: 8090  # 原本是8123
+  servlet:
+    context-path: /api
+baoapi:
+  client:
+    access-key: baozi
+    secret-key: abcdefgh
